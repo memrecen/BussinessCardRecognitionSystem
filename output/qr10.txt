@@ -1,0 +1,22 @@
+--- QR DATA ---
+q1: Serkan SOMTAS
+q2: SOMTAS;Serkan
+q3: +903523211300
+q4: www.somcelik.com
+q5: serkan@somcelik.com
+q6: http://www.somcelik.com/
+q7: O.S.B. 24.Cad No:55;Kayseri;;;TÜRKİYE
+q8: Somçelik Raf San.ve Tic.Ltd.Sti
+
+--- OCR DATA ---
+a1: SOMÇELİK
+a2: SOMCELIK SHELF INDUSTRİES LTD
+a3: SUPERMARKET STORE EQUIPMENTS
+a4: WAREHOUSE STORAGE systems
+a5: Serkan SOMTAS
+a6: Vice General Manager
+a7: Adress :0.S.B. 24.Cad. No:55 Kayseri/TURKIYE
+a8: Phone :+90 352 321 13 00 (Pbx)
+a9: Fax :+90 352 321 16 38
+a10: — www.somcelik.com
+a11: E-Mail :serkan@somcelik.com

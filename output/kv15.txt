@@ -1,0 +1,12 @@
+--- OCR DATA ---
+a1: STİLTEKS
+a2: %METAL
+a3: PAZ. SAN. ve DIS TIC. LTD. ŞTİ.
+a4: Ferit DALGIC
+a5: Uretim Müdürü
+a6: B.0.S.B. Mermerciler San. Sit. 4. Cadde
+a7: No: 11 Beylikdüzü - ISTANBUL / TURKIYE
+a8: Tel. :+90 212 875 94 90 - 91
+a9: Fax :+90 212665 60 45
+a10: www.stilteksmetal.com.tr
+a11: ferit@stilteksmetal.com.tr

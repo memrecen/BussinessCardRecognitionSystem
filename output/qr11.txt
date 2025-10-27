@@ -1,0 +1,4 @@
+--- QR DATA ---
+q1: http://www.parscelikkapi.com/
+
+--- OCR DATA ---
