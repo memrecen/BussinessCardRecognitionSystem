@@ -38,4 +38,9 @@ def process_card(image_path):
         for k, v in ocr_data.items():
             f.write(f"{k}: {v}\n")
 
-process_card("input/qr11.jpeg")
+
+def main():
+    process_card("input/qr11.jpeg")
+
+if __name__ == "__main__":
+    main()
